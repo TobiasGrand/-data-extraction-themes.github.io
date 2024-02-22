@@ -2,6 +2,6 @@ This folder contains R files used to build a tree structure of extracted challen
 
 The source for the R files was: https://github.com/pzhaonet/mindr
 
-Publication: Issues, challenges and recommendations for economic evaluation of orphan drugs: an umbrella review
+Publication: Issues, challenges and opportunities for economic evaluation of orphan drugs in rare diseases: an umbrella review
 Journal: Pharmacoeconomics
 Author information: Tobias Sydendal Grand, Shijie Ren, James Hall, Daniel Oudin Åström, Stephane Regnier, and Praveen Thokala  
